@@ -1,5 +1,5 @@
 
-## Linux Cihazlar İçin Kurulum
+## Linux(Debian) Cihazlar İçin Kurulum
 
 ### 1- Gereksinimler
 
